@@ -50,7 +50,7 @@ include('layouts/navbar.php');
 
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-10 col-md-10 col-lg-10">
+                <div class="col-sm-12 col-md-10 col-lg-10">
                     <!-- Blog Details Section -->
                     <section id="blog-details" class="blog-details section">
                         <div class="container">

@@ -34,7 +34,7 @@ include('layouts/navbar.php');
 
         <div class="container mt-4">
             <div class="row justify-content-center">
-                <div class="col-10 col-md-10 col-lg-10">
+                <div class="col-sm-12 col-md-10 col-lg-10">
                     <div id="comment-form" class="mb-5">
                         <div class="container">
                             <div class="card">

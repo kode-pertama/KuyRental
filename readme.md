@@ -1,6 +1,8 @@
 # 📦 My PHP Project with Docker
 
-Proyek ini adalah aplikasi PHP yang sudah dikemas dengan Docker, siap dijalankan tanpa ribet setup manual. Struktur foldernya simpel dan terorganisir :
+Proyek ini adalah aplikasi Rental Mobil sederhana menggunakan session yang sudah dikemas dengan Docker.
+
+# Struktur Folder
 
 📁 src → Kode PHP utama
 
